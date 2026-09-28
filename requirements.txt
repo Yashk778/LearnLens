@@ -1,0 +1,33 @@
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Environment / configuration
+python-dotenv
+
+# Document ingestion
+pypdf
+youtube-transcript-api
+
+# RAG
+chromadb
+sentence-transformers
+langchain
+langchain-community
+langgraph
+
+# LLM providers
+google-genai
+google-generativeai
+
+# Database
+sqlalchemy
+
+# HTTP / web fetching
+httpx
+beautifulsoup4
+
+# Testing
+pytest
+pytest-asyncio
