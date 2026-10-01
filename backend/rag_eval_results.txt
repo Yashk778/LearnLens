@@ -1,0 +1,1175 @@
+
+====================================================================================================
+Query: What is machine learning?
+Expected source: wikipedia
+Expected title: Machine learning
+
+----------------------------------------------------------------------------------------------------
+Rank: 1
+Source type: wikipedia
+Title: Machine learning
+Distance: 0.6463
+
+Retrieved chunk:
+empirical risk minimisation
+under this framework.
+Advances in the field of
+deep learning
+have allowed
+neural networks
+, a class of statistical algorithms, to surpass many previous machine learning approaches in performance. The resulting dominance of machine learning within the field of AI from the late 2000s and early 2010s onwards was such that the terms "machine learning" and "artificial intelligence" are now often used interchangeably, even though they are not synonymous.
+[
+5
+]
+History
+For a chronological guide, see
+Timeline of machine learning
+.
+The term
+machine learning
+was coined in 1959 by
+Arthur Samuel
+, an
+IBM
+employee and pioneer in the field of
+computer gaming
+and
+artificial intelligence
+.
+[
+6
+]
+[
+7
+]
+The synonym
+self-teaching computers
+was also used during this time period.
+[
+8
+]
+[
+9
+]
+The earliest machine learning program was introduced in the 1950s, when Samuel invented a
+computer program
+that calculated the chance of winning in
+checkers
+
+----------------------------------------------------------------------------------------------------
+Rank: 2
+Source type: wikipedia
+Title: Machine learning
+Distance: 0.6576
+
+Retrieved chunk:
+Computational learning theory
+and
+Statistical learning theory
+A core objective of a learner is to generalise from its experience.
+[
+2
+]
+[
+46
+]
+Generalisation in this context is the ability of a learning machine to perform accurately on new, unseen examples/tasks after having experienced a learning data set. The training examples come from some generally unknown probability distribution (considered representative of the space of occurrences) and the learner has to build a general model about this space that enables it to produce sufficiently accurate predictions in new cases.
+The computational analysis of machine learning algorithms and their performance is a branch of
+theoretical computer science
+known as
+computational learning theory
+. One major framework is the
+probably approximately correct learning
+
+----------------------------------------------------------------------------------------------------
+Rank: 3
+Source type: wikipedia
+Title: Machine learning
+Distance: 0.6598
+
+Retrieved chunk:
+inferences
+from a
+sample
+, while machine learning finds generalisable predictive patterns.
+[
+40
+]
+Conventional statistical analyses require the a priori selection of a model most suitable for the study data set. In addition, only significant or theoretically relevant variables based on previous experience are included for analysis. In contrast, machine learning is not built on a pre-structured model; rather, the data shape the model by detecting underlying patterns. The more variables (input) used to train the model, the more accurate the ultimate model will be.
+[
+41
+]
+Leo Breiman
+distinguished two statistical modelling paradigms: the data model and the algorithmic model,
+[
+42
+]
+wherein "algorithmic model" means more or less the machine learning algorithms like
+Random forest
+.
+[
+clarification needed
+]
+Some statisticians have adopted methods from machine learning, producing the field of
+statistical learning
+.
+[
+43
+]
+Statistical physics
+
+====================================================================================================
+Query: What is a Python function?
+Expected source: official_docs
+Expected title: Python Tutorial
+
+----------------------------------------------------------------------------------------------------
+Rank: 1
+Source type: official_docs
+Title: Python Tutorial
+Distance: 0.7716
+
+Retrieved chunk:
+2.1. Invoking the Interpreter
+2.1.1. Argument Passing
+2.1.2. Interactive Mode
+2.2. The Interpreter and Its Environment
+2.2.1. Source Code Encoding
+3. An Informal Introduction to Python
+3.1. Using Python as a Calculator
+3.1.1. Numbers
+3.1.2. Text
+3.1.3. Lists
+3.2. First Steps Towards Programming
+4. More Control Flow Tools
+4.1.
+if
+Statements
+4.2.
+for
+Statements
+4.3. The
+range()
+Function
+4.4.
+break
+and
+continue
+Statements
+4.5.
+else
+Clauses on Loops
+4.6.
+pass
+Statements
+4.7.
+match
+Statements
+4.8. Defining Functions
+4.9. More on Defining Functions
+4.9.1. Default Argument Values
+4.9.2. Keyword Arguments
+4.9.3. Special parameters
+4.9.3.1. Positional-or-Keyword Arguments
+4.9.3.2. Positional-Only Parameters
+4.9.3.3. Keyword-Only Arguments
+4.9.3.4. Function Examples
+4.9.3.5. Recap
+4.9.4. Arbitrary Argument Lists
+4.9.5. Unpacking Argument Lists
+4.9.6. Lambda Expressions
+4.9.7. Documentation Strings
+4.9.8. Function Annotations
+4.10. Intermezzo: Coding Style
+5. Data Structures
+5.1. More on Lists
+
+----------------------------------------------------------------------------------------------------
+Rank: 2
+Source type: official_docs
+Title: Python Tutorial
+Distance: 0.8645
+
+Retrieved chunk:
+The Python Tutorial — Python 3.14.7 documentation
+Navigation
+index
+modules
+|
+next
+|
+previous
+|
+Python
+»
+3.14.7 Documentation
+»
+The Python Tutorial
+|
+Theme
+Auto
+Light
+Dark
+|
+The Python Tutorial
+¶
+Tip
+This tutorial is designed for
+programmers
+that are new to the Python language,
+not
+beginners
+who are new to programming.
+Python is an easy to learn, powerful programming language. It has efficient
+high-level data structures and a simple but effective approach to
+object-oriented programming. Python’s elegant syntax and dynamic typing,
+together with its interpreted nature, make it an ideal language for scripting
+and rapid application development in many areas on most platforms.
+The Python interpreter and the extensive standard library are freely available
+in source or binary form for all major platforms from the Python website,
+https://www.python.org/
+, and may be freely distributed. The same site also
+contains distributions of and pointers to many free third party Python modules,
+
+----------------------------------------------------------------------------------------------------
+Rank: 3
+Source type: official_docs
+Title: Python Tutorial
+Distance: 0.9063
+
+Retrieved chunk:
+, and may be freely distributed. The same site also
+contains distributions of and pointers to many free third party Python modules,
+programs and tools, and additional documentation.
+The Python interpreter is easily extended with new functions and data types
+implemented in C or C++ (or other languages callable from C). Python is also
+suitable as an extension language for customizable applications.
+This tutorial introduces the reader informally to the basic concepts and
+features of the Python language and system. Be aware that it expects you to
+have a basic understanding of programming in general. It helps to have a Python
+interpreter handy for hands-on experience, but all examples are self-contained,
+so the tutorial can be read off-line as well.
+For a description of standard objects and modules, see
+Python built-ins reference
+and
+The Python standard library
+.
+The Python Language Reference
+gives a more formal definition of
+the language. To write extensions in C or C++, read
+
+====================================================================================================
+Query: What is a NumPy array?
+Expected source: official_docs
+Expected title: NumPy Quickstart
+
+----------------------------------------------------------------------------------------------------
+Rank: 1
+Source type: official_docs
+Title: NumPy Quickstart
+Distance: 0.4818
+
+Retrieved chunk:
+Understand axis and shape properties for n-dimensional arrays.
+The basics
+#
+NumPy’s main object is the homogeneous multidimensional array. It is a
+table of elements (usually numbers), all of the same type, indexed by a
+tuple of non-negative integers. In NumPy dimensions are called
+axes
+.
+For example, the array for the coordinates of a point in 3D space,
+[1,
+2,
+1]
+, has one axis. That axis has 3 elements in it, so we say
+it has a length of 3. In the example pictured below, the array has 2
+axes. The first axis has a length of 2, the second axis has a length of
+3.
+[[
+1.
+,
+0.
+,
+0.
+],
+[
+0.
+,
+1.
+,
+2.
+]]
+NumPy’s array class is called
+ndarray
+. It is also known by the alias
+array
+. Note that
+numpy.array
+is not the same as the Standard
+Python Library class
+array.array
+, which only handles one-dimensional
+arrays and offers less functionality. The more important attributes of
+an
+ndarray
+object are:
+ndarray.ndim
+the number of axes (dimensions) of the array.
+ndarray.shape
+
+----------------------------------------------------------------------------------------------------
+Rank: 2
+Source type: official_docs
+Title: NumPy Quickstart
+Distance: 0.5043
+
+Retrieved chunk:
+[4. , 5. , 6. ]])
+The type of the array can also be explicitly specified at creation time:
+>>>
+c
+=
+np
+.
+array
+([[
+1
+,
+2
+],
+[
+3
+,
+4
+]],
+dtype
+=
+np
+.
+complex128
+)
+>>>
+c
+array([[1.+0.j, 2.+0.j],
+[3.+0.j, 4.+0.j]])
+Often, the elements of an array are originally unknown, but its size is
+known. Hence, NumPy offers several functions to create
+arrays with initial placeholder content. These minimize the necessity of
+growing arrays, an expensive operation.
+The function
+zeros
+creates an array full of zeros, the function
+ones
+creates an array full of ones, and the function
+empty
+creates an array whose initial content is random and depends on the
+state of the memory. By default, the dtype of the created array is
+float64
+, but it can be specified via the key word argument
+dtype
+.
+>>>
+np
+.
+zeros
+((
+3
+,
+4
+))
+array([[0., 0., 0., 0.],
+[0., 0., 0., 0.],
+[0., 0., 0., 0.]])
+>>>
+np
+.
+ones
+((
+2
+,
+3
+,
+4
+),
+dtype
+=
+np
+.
+int16
+)
+array([[[1, 1, 1, 1],
+[1, 1, 1, 1],
+[1, 1, 1, 1]],
+[[1, 1, 1, 1],
+[1, 1, 1, 1],
+
+----------------------------------------------------------------------------------------------------
+Rank: 3
+Source type: official_docs
+Title: NumPy Quickstart
+Distance: 0.5623
+
+Retrieved chunk:
+an
+ndarray
+object are:
+ndarray.ndim
+the number of axes (dimensions) of the array.
+ndarray.shape
+the dimensions of the array. This is a tuple of integers indicating
+the size of the array in each dimension. For a matrix with
+n
+rows
+and
+m
+columns,
+shape
+will be
+(n,m)
+. The length of the
+shape
+tuple is therefore the number of axes,
+ndim
+.
+ndarray.size
+the total number of elements of the array. This is equal to the
+product of the elements of
+shape
+.
+ndarray.dtype
+an object describing the type of the elements in the array. One can
+create or specify dtype’s using standard Python types. Additionally
+NumPy provides types of its own. numpy.int32, numpy.int16, and
+numpy.float64 are some examples.
+ndarray.itemsize
+the size in bytes of each element of the array. For example, an
+array of elements of type
+float64
+has
+itemsize
+8 (=64/8),
+while one of type
+complex32
+has
+itemsize
+4 (=32/8). It is
+equivalent to
+ndarray.dtype.itemsize
+.
+ndarray.data
+
+====================================================================================================
+Query: What is a pandas DataFrame?
+Expected source: official_docs
+Expected title: 10 Minutes to pandas
+
+----------------------------------------------------------------------------------------------------
+Rank: 1
+Source type: official_docs
+Title: 10 Minutes to pandas
+Distance: 0.8720
+
+Retrieved chunk:
+10 minutes to pandas
+#
+This is a short introduction to pandas, geared mainly for new users.
+You can see more complex recipes in the
+Cookbook
+.
+Customarily, we import as follows:
+In [1]:
+import
+numpy
+as
+np
+In [2]:
+import
+pandas
+as
+pd
+Basic data structures in pandas
+#
+pandas provides two types of classes for handling data:
+Series
+: a one-dimensional labeled array holding data of any type
+such as integers, strings, Python objects etc.
+DataFrame
+: a two-dimensional data structure that holds data like
+a two-dimension array or a table with rows and columns.
+Object creation
+#
+See the
+Intro to data structures section
+.
+Creating a
+Series
+by passing a list of values, letting pandas create
+a default
+RangeIndex
+.
+In [3]:
+s
+=
+pd
+.
+Series
+([
+1
+,
+3
+,
+5
+,
+np
+.
+nan
+,
+6
+,
+8
+])
+In [4]:
+s
+Out[4]:
+0 1.0
+1 3.0
+2 5.0
+3 NaN
+4 6.0
+5 8.0
+dtype: float64
+Creating a
+DataFrame
+by passing a NumPy array with a datetime index using
+date_range()
+and labeled columns:
+In [5]:
+dates
+=
+pd
+.
+date_range
+(
+"20130101"
+,
+
+----------------------------------------------------------------------------------------------------
+Rank: 2
+Source type: official_docs
+Title: 10 Minutes to pandas
+Distance: 1.0472
+
+Retrieved chunk:
+Series
+or
+DataFrame
+with a different index or column
+will align the result with the union of the index or column labels. In addition, pandas
+automatically broadcasts along the specified dimension and will fill unaligned labels with
+np.nan
+.
+In [65]:
+s
+=
+pd
+.
+Series
+([
+1
+,
+3
+,
+5
+,
+np
+.
+nan
+,
+6
+,
+8
+],
+index
+=
+dates
+)
+.
+shift
+(
+2
+)
+In [66]:
+s
+Out[66]:
+2013-01-01 NaN
+2013-01-02 NaN
+2013-01-03 1.0
+2013-01-04 3.0
+2013-01-05 5.0
+2013-01-06 NaN
+Freq: D, dtype: float64
+In [67]:
+df
+.
+sub
+(
+s
+,
+axis
+=
+"index"
+)
+Out[67]:
+A B C D F
+2013-01-01 NaN NaN NaN NaN NaN
+2013-01-02 NaN NaN NaN NaN NaN
+2013-01-03 -1.861849 -3.104569 -1.494929 4.0 1.0
+2013-01-04 -2.278445 -3.706771 -4.039575 2.0 0.0
+2013-01-05 -5.424972 -4.432980 -4.723768 0.0 -1.0
+2013-01-06 NaN NaN NaN NaN NaN
+User defined functions
+#
+DataFrame.agg()
+and
+DataFrame.transform()
+applies a user defined function
+that reduces or broadcasts its result respectively.
+In [68]:
+df
+.
+agg
+(
+lambda
+x
+:
+np
+.
+mean
+(
+x
+)
+*
+5.6
+)
+Out[68]:
+A -0.025054
+
+----------------------------------------------------------------------------------------------------
+Rank: 3
+Source type: official_docs
+Title: 10 Minutes to pandas
+Distance: 1.0577
+
+Retrieved chunk:
+recommend the optimized pandas data access methods,
+DataFrame.at()
+,
+DataFrame.iat()
+,
+DataFrame.loc()
+and
+DataFrame.iloc()
+.
+See the indexing documentation
+Indexing and Selecting Data
+and
+MultiIndex / Advanced Indexing
+.
+Getitem (
+[]
+)
+#
+For a
+DataFrame
+, passing a single label selects a column and
+yields a
+Series
+:
+In [24]:
+df
+[
+"A"
+]
+Out[24]:
+2013-01-01 0.469112
+2013-01-02 1.212112
+2013-01-03 -0.861849
+2013-01-04 0.721555
+2013-01-05 -0.424972
+2013-01-06 -0.673690
+Freq: D, Name: A, dtype: float64
+If the label only contains letters, numbers, and underscores, you can
+alternatively use the column name attribute:
+In [25]:
+df
+.
+A
+Out[25]:
+2013-01-01 0.469112
+2013-01-02 1.212112
+2013-01-03 -0.861849
+2013-01-04 0.721555
+2013-01-05 -0.424972
+2013-01-06 -0.673690
+Freq: D, Name: A, dtype: float64
+Passing a list of column labels selects multiple columns, which can be useful
+for getting a subset/rearranging:
+In [26]:
+df
+[[
+"B"
+,
+"A"
+]]
+Out[26]:
+B A
+2013-01-01 -0.282863 0.469112
+
+====================================================================================================
+Query: What is a neural network?
+Expected source: wikipedia
+Expected title: Machine learning
+
+----------------------------------------------------------------------------------------------------
+Rank: 1
+Source type: wikipedia
+Title: Machine learning
+Distance: 0.6354
+
+Retrieved chunk:
+neurons
+in a
+brain
+. Here, each circular node represents an
+artificial neuron
+and an arrow represents a connection from the output of one artificial neuron to the input of another.
+Artificial neural networks (ANNs), or
+connectionist
+systems, are computing systems vaguely inspired by the
+biological neural networks
+that constitute animal
+brains
+. Such systems "learn" to perform tasks by considering examples, generally without being programmed with any task-specific rules.
+An ANN is a model based on a collection of connected units or nodes called "
+artificial neurons
+", which loosely model the
+neurons
+in a biological brain. Each connection, like the
+synapses
+in a biological brain, can transmit information, a "signal", from one artificial neuron to another. An artificial neuron that receives a signal can process it and then signal additional artificial neurons connected to it. In common ANN implementations, the signal at a connection between artificial neurons is a
+real number
+
+----------------------------------------------------------------------------------------------------
+Rank: 2
+Source type: wikipedia
+Title: Machine learning
+Distance: 0.7064
+
+Retrieved chunk:
+mathematical induction
+, proving a property for all members of a well-ordered set.
+Models
+A
+machine learning model
+is a type of
+mathematical model
+that, once "trained" on a given dataset, can be used to make predictions or classifications on new data. During training, a learning algorithm iteratively adjusts the model's internal parameters to minimise errors in its predictions.
+[
+89
+]
+By extension, the term "model" can refer to several levels of specificity, from a general class of models and their associated learning algorithms to a fully trained model with all its internal parameters tuned.
+[
+90
+]
+Various types of models have been used and researched for machine learning systems, picking the best model for a task is called
+model selection
+.
+Artificial neural networks
+Main article:
+Artificial neural network
+See also:
+Deep learning
+An artificial neural network is an interconnected group of nodes, akin to the vast network of
+neurons
+in a
+brain
+. Here, each circular node represents an
+
+----------------------------------------------------------------------------------------------------
+Rank: 3
+Source type: wikipedia
+Title: Machine learning
+Distance: 0.8170
+
+Retrieved chunk:
+real number
+, and the output of each artificial neuron is computed by some non-linear function of the sum of its inputs. The connections between artificial neurons are called "edges". Artificial neurons and edges typically have a
+weight
+that adjusts as learning proceeds. The weight increases or decreases the strength of the signal at a connection. Artificial neurons may have a threshold such that the signal is only sent if the aggregate signal crosses that threshold. Typically, artificial neurons are aggregated into layers. Different layers may perform different kinds of transformations on their inputs. Signals travel from the first layer (the input layer) to the last layer (the output layer), possibly after traversing the layers multiple times.
+The original goal of the ANN approach was to solve problems in the same way that a
+human brain
+would. However, over time, ANNs have diverged from
+biology
+
+====================================================================================================
+Query: What is a PyTorch tensor?
+Expected source: official_docs
+Expected title: Learn the Basics
+
+----------------------------------------------------------------------------------------------------
+Rank: 1
+Source type: official_docs
+Title: Learn the Basics
+Distance: 0.9776
+
+Retrieved chunk:
+If you’re new to deep learning frameworks, head right into the first section of our step-by-step guide:
+1. Tensors
+.
+0.
+Quickstart
+1.
+Tensors
+2.
+Datasets and DataLoaders
+3.
+Transforms
+4.
+Build Model
+5.
+Automatic Differentiation
+6.
+Optimization Loop
+7.
+Save, Load and Use Model
+Download
+Jupyter
+notebook:
+intro.ipynb
+Download
+Python
+source
+code:
+intro.py
+Download
+zipped:
+intro.zip
+On this page
+PyTorch Libraries
+ExecuTorch
+Helion
+torchao
+kineto
+torchtitan
+TorchRL
+torchvision
+torchaudio
+tensordict
+PyTorch on XLA Devices
+
+----------------------------------------------------------------------------------------------------
+Rank: 2
+Source type: official_docs
+Title: NumPy Quickstart
+Distance: 1.1986
+
+Retrieved chunk:
+an
+ndarray
+object are:
+ndarray.ndim
+the number of axes (dimensions) of the array.
+ndarray.shape
+the dimensions of the array. This is a tuple of integers indicating
+the size of the array in each dimension. For a matrix with
+n
+rows
+and
+m
+columns,
+shape
+will be
+(n,m)
+. The length of the
+shape
+tuple is therefore the number of axes,
+ndim
+.
+ndarray.size
+the total number of elements of the array. This is equal to the
+product of the elements of
+shape
+.
+ndarray.dtype
+an object describing the type of the elements in the array. One can
+create or specify dtype’s using standard Python types. Additionally
+NumPy provides types of its own. numpy.int32, numpy.int16, and
+numpy.float64 are some examples.
+ndarray.itemsize
+the size in bytes of each element of the array. For example, an
+array of elements of type
+float64
+has
+itemsize
+8 (=64/8),
+while one of type
+complex32
+has
+itemsize
+4 (=32/8). It is
+equivalent to
+ndarray.dtype.itemsize
+.
+ndarray.data
+
+----------------------------------------------------------------------------------------------------
+Rank: 3
+Source type: official_docs
+Title: Learn the Basics
+Distance: 1.2233
+
+Retrieved chunk:
+to one of the following classes: T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker,
+Bag, or Ankle boot.
+This tutorial assumes a basic familiarity with Python and Deep Learning concepts.
+Running the Tutorial Code
+#
+You can run this tutorial in a couple of ways:
+In the cloud
+: This is the easiest way to get started! Each section has a “Run in Google Colab” link at the top, which opens an integrated notebook in Google Colab with the code in a fully-hosted environment.
+Locally
+: This option requires you to set up PyTorch and TorchVision first on your local machine (
+installation instructions
+). Download the notebook or copy the code into your favorite IDE.
+How to Use this Guide
+#
+If you’re familiar with other deep learning frameworks, check out the
+0. Quickstart
+first
+to quickly familiarize yourself with PyTorch’s API.
+If you’re new to deep learning frameworks, head right into the first section of our step-by-step guide:
+1. Tensors
+.
+0.
+Quickstart
+1.
+Tensors
+2.
+
+====================================================================================================
+Query: What is a transformer model?
+Expected source: official_docs
+Expected title: Transformers Documentation
+
+----------------------------------------------------------------------------------------------------
+Rank: 1
+Source type: official_docs
+Title: Transformers Documentation
+Distance: 0.7031
+
+Retrieved chunk:
+Design
+Read our
+Philosophy
+to learn more about Transformers’ design principles.
+Transformers is designed for developers and machine learning engineers and researchers. Its main design principles are:
+Fast and easy to use: Every model is implemented from only three main classes (configuration, model, and preprocessor) and can be quickly used for inference or training with
+Pipeline
+or
+Trainer
+.
+Pretrained models: Reduce your carbon footprint, compute cost and time by using a pretrained model instead of training an entirely new one. Each pretrained model is reproduced as closely as possible to the original model and offers state-of-the-art performance.
+Learn
+If you’re new to Transformers or want to learn more about transformer models, we recommend starting with the
+LLM course
+
+----------------------------------------------------------------------------------------------------
+Rank: 2
+Source type: official_docs
+Title: Transformers Documentation
+Distance: 0.8747
+
+Retrieved chunk:
+Learn
+If you’re new to Transformers or want to learn more about transformer models, we recommend starting with the
+LLM course
+. This comprehensive course covers everything from the fundamentals of how transformer models work to practical applications across various tasks. You’ll learn the complete workflow, from curating high-quality datasets to fine-tuning large language models and implementing reasoning capabilities. The course contains both theoretical and hands-on exercises to build a solid foundational knowledge of transformer models as you learn.
+Update
+on GitHub
+Installation
+→
+
+----------------------------------------------------------------------------------------------------
+Rank: 3
+Source type: official_docs
+Title: Transformers Documentation
+Distance: 0.9724
+
+Retrieved chunk:
+Explore the
+Models Timeline
+to discover the latest text, vision, audio and multimodal model architectures in Transformers.
+Features
+Transformers provides everything you need for inference or training with state-of-the-art pretrained models. Some of the main features include:
+Pipeline
+: Simple and optimized inference class for many machine learning tasks like text generation, image segmentation, automatic speech recognition, document question answering, and more.
+Trainer
+: A comprehensive trainer that supports features such as mixed precision, torch.compile, and FlashAttention for training and distributed training for PyTorch models.
+generate
+: Fast text generation with large language models (LLMs) and vision language models (VLMs), including support for streaming and multiple decoding strategies.
+Design
+Read our
+Philosophy
+to learn more about Transformers’ design principles.
+
+====================================================================================================
+Query: What is LangGraph?
+Expected source: official_docs
+Expected title: LangGraph Overview
+
+----------------------------------------------------------------------------------------------------
+Rank: 1
+Source type: official_docs
+Title: LangGraph Overview
+Distance: 0.9072
+
+Retrieved chunk:
+LangGraph
+is the orchestration runtime: durable execution, streaming, human-in-the-loop, and persistence.
+LangSmith
+is the platform for tracing, evaluation, prompts, and deployment across frameworks.
+LangSmith Engine
+detects issues in your LangGraph agent traces and proposes fixes. You can open a pull request with the proposed fix directly from the Engine tab.
+LangSmith Fleet
+is the no-code agent builder for templates, integrations, and routine automation.
+Read
+Frameworks, runtimes, and harnesses
+for a comparison of the open source stack.
+​
+Install
+pip
+uv
+pip
+install
+-U
+langgraph
+uv
+add
+langgraph
+Then, create a simple hello world example:
+from
+langgraph
+.
+graph
+import
+StateGraph
+,
+MessagesState
+,
+START
+,
+END
+def
+mock_llm
+(
+state
+:
+MessagesState
+):
+return
+{
+"messages"
+:
+[{
+"role"
+:
+"ai"
+,
+"content"
+:
+"hello world"
+}]}
+graph
+=
+StateGraph
+(
+MessagesState
+)
+graph
+.
+add_node
+(
+mock_llm
+)
+graph
+.
+add_edge
+(
+START
+,
+"mock_llm"
+)
+graph
+.
+add_edge
+(
+"mock_llm"
+,
+END
+)
+graph
+=
+graph
+.
+compile
+
+----------------------------------------------------------------------------------------------------
+Rank: 2
+Source type: official_docs
+Title: LangGraph Overview
+Distance: 1.0445
+
+Retrieved chunk:
+Trusted by companies shaping the future of agents—including Klarna, Uber, J.P. Morgan, and more—LangGraph is a low-level orchestration framework and runtime for building, managing, and deploying long-running, stateful agents. LangGraph gives you fine-grained control to mix deterministic, hand-coded steps with LLM-driven agentic steps in the same graph, so you can build bespoke agents that behave exactly the way your application requires.
+LangGraph is very low-level, and focused entirely on agent
+orchestration
+. Before using LangGraph, we recommend you familiarize yourself with some of the components used to build agents, starting with
+models
+and
+tools
+.
+We will commonly use
+LangChain
+components throughout the documentation to integrate models and tools, but you don’t need to use LangChain to use LangGraph. If you are just getting started with agents or want a higher-level abstraction, we recommend you use LangChain’s
+agents
+
+----------------------------------------------------------------------------------------------------
+Rank: 3
+Source type: official_docs
+Title: LangGraph Overview
+Distance: 1.0823
+
+Retrieved chunk:
+Learn more
+LangChain
+Provides integrations and composable components to streamline LLM application development. Contains agent abstractions built on top of LangGraph.
+Learn more
+​
+Acknowledgements
+LangGraph is inspired by
+Pregel
+and
+Apache Beam
+. The public interface draws inspiration from
+NetworkX
+. LangGraph is built by LangChain Inc, the creators of LangChain, but can be used without LangChain.
+Connect these docs
+to your agent of choice via MCP for real-time answers.
+Edit this page on GitHub
+or
+file an issue
+.
+Was this page helpful?
+Yes
+No

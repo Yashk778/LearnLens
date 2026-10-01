@@ -20,6 +20,7 @@ langgraph
 # LLM providers
 google-genai
 google-generativeai
+openai
 
 # Database
 sqlalchemy
